@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+*{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+body{
+    background: #007bff;
+}
+
+.greeting h1{
+    color: white;
+    margin: 60px;
+    margin-left: 518px;
+    margin-right: auto;
+}
+
+.agala_btn:hover{
+    color: #fff;
+    background-color: #07fcec;
+}
+
+
+.agala_btn {
+    font-size: 20px;    
+    padding: 8px 49px;    
+    margin: 98px 0;    
+    margin-left: 588px;
+    color: #007bff;
+    background: #fff;
+    border-radius: 22px;
+    font-weight: bold;
+    outline: none;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
